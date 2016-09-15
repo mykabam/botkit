@@ -1,7 +1,7 @@
 {
-  "name": "showdme-botkit",
-  "version": "0.1.0",
-  "description": "Building blocks for Building Bots. Includes support for HipChat.",
+  "name": "botkit",
+  "version": "0.2.2",
+  "description": "Building blocks for Building Bots",
   "main": "lib/Botkit.js",
   "dependencies": {
     "async": "^2.0.0-rc.5",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mykabam/botkit.git"
+    "url": "https://github.com/howdyai/botkit.git"
   },
   "bugs": {
     "url": "https://github.com/howdyai/botkit/issues"
